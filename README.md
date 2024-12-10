@@ -1,18 +1,22 @@
-# Implementation-of-Chatbot-using-NLP
 #SmartBot: An Interactive Chatbot Powered by NLP
-#Project Description
+
+#Project Description:-
+
 SmartBot is an intelligent chatbot built using Natural Language Processing (NLP) techniques, designed to understand user intents and provide contextually relevant responses. The project combines machine learning and web technologies to create a user-friendly, scalable chatbot application that can be adapted for various domains.
 
 -Problem Statement
+
 Traditional chatbot systems often lack flexibility, scalability, and user engagement, limiting their applicability in real-world scenarios. SmartBot addresses these challenges by leveraging machine learning for intent recognition and providing an interactive interface for seamless user interaction.
 
 -Objectives
+
 Develop an NLP-powered chatbot to classify user inputs and generate appropriate responses.
 Design a responsive and intuitive web interface using Streamlit.
 Implement a logging mechanism to capture and analyze user-bot interactions for continuous improvement.
 Provide a customizable and scalable chatbot for various industries and applications.
 
 -Features
+
 Intent Classification: Uses TF-IDF vectorization and Logistic Regression to classify user queries.
 Interactive UI: Built with Streamlit for a clean, responsive, and accessible interface.
 Conversation Logging: Stores user interactions for analysis and improvement.
